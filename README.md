@@ -15,3 +15,8 @@ snakeAct是一个经典的游戏，旨在模拟传统的贪吃蛇游戏体验。
 # LICENSE
 本项目使用Apache License 2.0
 # 参考文献
+[1].《C语言实现简易贪吃蛇游戏的示例代码》（发布时间：2022-10-11）
+[2].A. Vasile, D. Draghici，Snake Game: Development and Implementation of AI Algorithms.，2015
+[3].E. Brown, J. Smith.，Open Source Snake Game Implementation: Case Study and Analysis，2020
+[4].GeeksforGeeks，" Snake Game in C" by GeeksforGeeks
+[5].《基于C语言的贪吃蛇游戏开发与设计毕业设计》（发布时间：2017-06-09）
